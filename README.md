@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FaidraDamianou
+- 👀 I’m interested in digital art, animation
+- 🌱 I’m currently learning arduino uno and lilypad
+- 📫 How to reach me dpsd19028@syros.aegean.gr
